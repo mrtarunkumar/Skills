@@ -116,9 +116,6 @@ export default {
 
   .fai{
     float:right;
-    width: 10px;
-    height: 10px;
-    border: 1px solid red;
   }
 
   @keyframes bounce-in {
